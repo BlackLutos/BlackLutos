@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blacklutos</h1>
-<h3 align="center"><a href="https://en.nycu.edu.tw/">A NYCU master student from Taiwan.</h3>
+<h3 align="center"><a href="https://iais.nycu.edu.tw/en/index.html">A NYCU master student from Taiwan.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blacklutos" alt="blacklutos" /></a> </p>
 
